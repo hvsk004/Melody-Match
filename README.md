@@ -1,9 +1,8 @@
+**<br/
+
+##Melody Match: AI-Powered Music Discovery
 **<br/>
 
-Melody Match: AI-Powered Music Discovery
-**<br/>
-
-Melody Match Logo: link-to-your-project
 
 **<br/>
 
@@ -64,7 +63,7 @@ Created by Your Name: your-link
 **<br/>
 
 Demo
-[Link to a demo video or GIF of your application in action]
+Coming Soon
 
 **<br/>
 
@@ -80,7 +79,4 @@ Let the music discovery journey begin!
 Customize this template further with:
 
 Project screenshots
-Highlighted features
-Usage examples
-Future development plans
-Additional links and resources
+Comin Soon
